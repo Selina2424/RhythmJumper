@@ -29,6 +29,6 @@ A Unity rhythm platformer built in C# featuring adaptive difficulty, beat synchr
 - Improved visual effects
 - Save system
 
-##Author
+## Author
 
 Selina Ocloo
