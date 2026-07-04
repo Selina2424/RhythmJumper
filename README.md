@@ -29,6 +29,12 @@ A Unity rhythm platformer built in C# featuring adaptive difficulty, beat synchr
 - Improved visual effects
 - Save system
 
+## Play the Game
+
+You can download the latest Windows build from the **Releases** section.
+
+Latest Release: v1.0
+
 ## Author
 
 Selina Ocloo
